@@ -25,9 +25,9 @@ img/semos_al_white.svg Semos AL logo (white, "albania" under the wordmark)
 
 ## Contact details used
 
-- Address: Rruga Bilal Golemi 31, Komuna e Parisit, 1060 Tirana, Albania
+- Address: European Trade Center (ETC), Floor 13, Tirana, Albania
 - Email: info@semos.al
-- Phone: +355 67 20 42290
+- Phone: 00355 69 244 1009
 - Facebook: facebook.com/semosalb · LinkedIn: linkedin.com/company/semosal · Instagram: instagram.com/semosal
 
 To change them, search and replace across both the root and `sq/` pages.
