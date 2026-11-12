@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="333px" height="190px" viewBox="0 0 333 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>ab3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g vector-effect="non-scaling-stroke" id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g vector-effect="non-scaling-stroke" id="ab3">
+            <g vector-effect="non-scaling-stroke" id="Group-30" transform="translate(53.000000, 9.000000)">
+                <path vector-effect="non-scaling-stroke" d="M29.7058824,147.93606 L33,147.93606 L33,129.227799 L25.7659082,128.314756 L22.5,131.966929 L19.3402287,128.314756 L12,129.227799 L12,147.93606 L16.0102302,147.93606 L16.0102302,166 L29.7058824,166 L29.7058824,147.93606 Z M23.0843108,125.442043 C25.8838231,125.442043 28.1532763,123.167529 28.1532763,120.361775 C28.1532763,117.556021 25.8838231,115.281507 23.0843108,115.281507 C20.2847984,115.281507 18.0153453,117.556021 18.0153453,120.361775 C18.0153453,123.167529 20.2847984,125.442043 23.0843108,125.442043 Z" id="Combined-Shape-Copy" stroke="#A1A7A9"></path>
+                <path vector-effect="non-scaling-stroke" d="M71.6223177,141.781064 L76.0388527,141.781064 L76.0388527,116.698265 L66.339861,115.474117 L61.9611473,120.37071 L57.7247349,115.474117 L47.8834418,116.698265 L47.8834418,141.781064 L53.2600932,141.781064 L53.2600932,166 L71.6223177,166 L71.6223177,141.781064 Z M62.7445525,111.622573 C66.4979535,111.622573 69.5406862,108.573056 69.5406862,104.811287 C69.5406862,101.049517 66.4979535,98 62.7445525,98 C58.9911515,98 55.9484188,101.049517 55.9484188,104.811287 C55.9484188,108.573056 58.9911515,111.622573 62.7445525,111.622573 Z" id="Combined-Shape-Copy-2" stroke="#A1A7A9"></path>
+                <path vector-effect="non-scaling-stroke" d="M120.595889,135.72633 L126.116558,135.72633 L126.116558,104.372832 L113.992818,102.842646 L108.519426,108.963388 L103.223911,102.842646 L90.9222945,104.372832 L90.9222945,135.72633 L97.6431087,135.72633 L97.6431087,166 L120.595889,166 L120.595889,135.72633 Z M109.498683,98.0282168 C114.190434,98.0282168 117.99385,94.2163206 117.99385,89.5141084 C117.99385,84.8118962 114.190434,81 109.498683,81 C104.806932,81 101.003516,84.8118962 101.003516,89.5141084 C101.003516,94.2163206 104.806932,98.0282168 109.498683,98.0282168 Z" id="Combined-Shape-Copy-3" stroke="#A1A7A9"></path>
+                <path vector-effect="non-scaling-stroke" d="M179.052022,127.17847 L186.131468,127.17847 L186.131468,86.9722193 L170.584554,85.0099815 L163.565734,92.8589324 L156.775014,85.0099815 L141,86.9722193 L141,127.17847 L149.618456,127.17847 L149.618456,166 L179.052022,166 L179.052022,127.17847 Z M164.821486,78.8361838 C170.837967,78.8361838 175.715289,73.9479876 175.715289,67.9180919 C175.715289,61.8881963 170.837967,57 164.821486,57 C158.805005,57 153.927684,61.8881963 153.927684,67.9180919 C153.927684,73.9479876 158.805005,78.8361838 164.821486,78.8361838 Z" id="Combined-Shape-Copy-4" fill="#0F79BF"></path>
+                <g vector-effect="non-scaling-stroke" id="Group-17" transform="translate(190.000000, 27.000000)">
+                    <g vector-effect="non-scaling-stroke" id="Group-11">
+                        <circle vector-effect="non-scaling-stroke" id="Oval-2" stroke="#A1A7A9" fill="#FFFFFF" cx="19" cy="19" r="19"></circle>
+                        <polyline vector-effect="non-scaling-stroke" id="Path-45" stroke="#0F79BF" stroke-width="3" points="9.703125 19.7038975 15.4589982 25.4597708 28.918769 12"></polyline>
+                    </g>
+                </g>
+                <g vector-effect="non-scaling-stroke" id="Group-16" transform="translate(102.000000, 51.000000) rotate(-8.000000) translate(-102.000000, -51.000000) translate(5.000000, 14.000000)" stroke="#A1A7A9">
+                    <path vector-effect="non-scaling-stroke" d="M0.484375,73.3984375 C0.484375,73.3984375 143.722656,44.0390625 193.496094,0.78125" id="Path-43"></path>
+                    <path vector-effect="non-scaling-stroke" d="M193.042719,1.02286048 L177.5,2.49999996" id="Path-46"></path>
+                    <path vector-effect="non-scaling-stroke" d="M193.397551,16 L188.5,1.5" id="Path-46-Copy" transform="translate(191.000000, 8.500000) scale(1, -1) translate(-191.000000, -8.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

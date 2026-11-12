@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="57px" viewBox="0 0 53 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-3-Copy-9" transform="translate(-312.000000, -1076.000000)">
+            <g id="Group-17" transform="translate(313.000000, 1077.000000)">
+                <g id="cloud_box" stroke-linecap="round" stroke-width="2" stroke="#FFFFFF" stroke-linejoin="round">
+                    <g id="Path-8-+-Path-6-+-Path-17-Copy-6">
+                        <polygon id="Path-8" points="0 9.65772019 25.6325455 0 50.9124895 9.65771994 25.4365502 19.0359432"></polygon>
+                        <polyline id="Path-6" points="0 9.47900478 2.18500518e-15 45.1510456 25.4562447 54.8133755 25.4562447 19.0711999"></polyline>
+                        <polyline id="Path-7" transform="translate(38.184367, 32.146190) scale(-1, 1) translate(-38.184367, -32.146190) " points="25.4562447 9.47900478 25.4562447 45.1510456 50.9124895 54.8133755"></polyline>
+                    </g>
+                </g>
+                <path d="M6.5,37.5 L17.9729779,41.9617136" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M12.347653,36 L19.695306,31.2536342 L5,26.0510598 L12.347653,36 Z M9.89843534,14.4161187 L14.7968707,16.1503102 L14.7968707,29.5194427 L9.89843534,27.7852512 L9.89843534,14.4161187 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

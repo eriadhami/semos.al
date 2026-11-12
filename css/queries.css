@@ -1,0 +1,1171 @@
+@media screen and (min-width:2030px){
+	.naslov_bs {
+    margin-left: -12.5%;
+}
+	.desc_bs {
+    margin-left: -10%;
+}
+	.bs_link {
+    margin-left: -6%;
+}
+.desc_mbank {
+    margin-right: -15%;
+    margin-left: 45%;
+}
+.row_logos {
+    margin: 0 auto;
+    width: 53%;
+    padding: 70px 0 !important;
+    width: 1200px;
+}
+}
+
+@media screen and (max-width:1730px){
+	.naslov_bs {
+    margin-left: -183px;
+}
+	.desc_bs {
+    margin-left: -131px;
+}
+	.bs_link {
+    margin-left: -26px;
+}
+.desc_mbank {
+    margin-right: -9%;
+    margin-left: 50%;
+}
+.title_mbank {
+    margin-left: 50%;
+}
+.mbank_lm {
+    margin-left: 50%;
+}
+.blocks_title_ins {
+    width: 230px;
+    height: 325px;
+    background-size: 100% auto;
+}
+}
+@media screen and (min-width:1730px){
+	.row_logos {
+    padding: 70px 14%;
+}
+
+.row_categories {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+}
+@media screen and (max-width:1630px){
+	.naslov_bs {
+    margin-left: -170px;
+}
+	.desc_bs {
+    margin-left: -108px;
+}
+	.bs_link {
+    margin-left: -10px;
+}
+.business_logos_parallax {
+    width: 90%;
+}
+.bs_logos_cont svg {
+    margin-left: -5%;
+}
+}
+@media screen and (max-width:1510px){
+	.mbank_lm {
+    margin-left: 40%;
+    margin-right: 0;
+}
+	.title_mbank {
+    margin-left: 40%;
+    margin-right: 0;
+}
+	.desc_mbank {
+    margin-left: 40%;
+    margin-right: 0;
+}
+	.mbank_logo {
+    margin-left: -9%;
+}
+	.phone_cont_slider {}
+}
+@media screen and (max-width:1450px){
+	.blocks_title_ins {
+    width: 170px;
+    height: 327px;
+}
+	.mob_desc_cont {
+    background-position: -60px bottom;
+}
+	.mbank_logo {
+    margin-left: -14%;
+}
+	.phone_cont_slider {
+}
+	.naslov_bs {
+    margin-left: -188px;
+    font-size: 31px;
+    top: 60px;
+}
+	.desc_bs {
+    margin-left: -148px;
+    font-size: 14px;
+    top: 133px;
+}
+	.bs_link {
+    margin-left: -57px;
+    top: 203px;
+}
+.bs_guy {
+    height: 470px;
+    width: 45%;
+}
+.business_logos_parallax {
+    width: 90%;
+    height: 470px;
+    margin-top: -20px;
+}
+.bs_logos_cont svg {
+    margin-left: -5%;
+    height: 520px;
+    overflow: visible;
+    z-index: 99;
+}
+.bs_logos_cont {
+    height: 470px;
+}
+}
+@media screen and (max-width:1245px){
+	.blocks_title_ins {display: none;}
+	.phone_cont {
+    height: 390px;
+}
+	.mobile_blocks_cont {
+    /* display: none; */
+    height: 390px;
+}
+	.mob_desc_cont {
+    background-position: -190px bottom;
+    height: 390px;
+}
+		.mbank_lm {
+    margin-left: 30%;
+}
+	.title_mbank {
+    margin-left: 30%;
+    font-size: 33px;
+}
+	.desc_mbank {
+    margin-left: 30%;
+}
+	.mbank_logo {
+    width: 210px;
+    margin-top: 49px;
+}
+	.phone_cont_slider {
+    left: -10px;
+    top: -38px;
+}
+	.wp33 {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+	.title_sec_obicna {
+    font-size: 33px;
+}
+	.sec_obicna_p {padding: 0;}
+	.lrn_more2 {}
+
+	.naslov_bs {
+    margin-left: -182px;
+    font-size: 29px;
+    top: 50px;
+}
+	.desc_bs {
+    margin-left: -168px;
+    font-size: 14px;
+    top: 114px;
+}
+	.bs_link {
+    margin-left: -70px;
+    top: 183px;
+}
+.bs_guy {
+    height: 470px;
+    width: 47%;
+}
+.business_logos_parallax {
+    width: 90%;
+    height: 470px;
+    margin-top: -20px;
+}
+.bs_logos_cont svg {
+    margin-left: -5%;
+    height: 520px;
+}
+.bs_logos_cont {
+    height: 470px;
+}
+.slides_glavni {margin-right: 0;}
+}
+
+@media screen and (max-width:1200px){
+.menu-is-open {
+		background-color: rgba(37, 75, 161, 0.8);
+	}
+	.semos_white img {}
+	.type-wrap {}
+	.dot_glow {}
+	.software_hdr_link {}
+	.system_hdr_link {}
+	.creative_hdr_link {}
+	.about_hdr_link {}
+	.logo_center_semos {}
+	div.parallax-container {}
+	div.parallax-container div.parallax {}
+	#clock-countdown {
+    width: 93%;
+    top: 50px;
+}
+	.counter-container {}
+	#clock-countdown .counter-box {}
+	#clock-countdown .number {}
+	#clock-countdown span {}
+	#clock-countdown .first {}
+	#clock-countdown .first .number {}
+	#clock-countdown .first span {}
+	.title_counter {}
+
+	.tech_nasl {
+    font-size: 35px;
+}
+
+
+		.container_partners_txt {
+    width: 63%;
+    margin-right: 0;
+}
+	.partners_paralax {
+    /* left: -50px; */
+}
+	.naslov_partners {
+    font-size: 33px;
+}
+	.txt_partners {}
+	.partneri_logoa {
+    right: 0;
+}
+
+	.slides_glavni {margin-right: 0;min-height: auto;}
+	.slide_img {
+    height: 260px;
+}
+	.device{/* left: -13px; *//* top: -79px; */}
+	footer li{display: table-cell;float: none;}
+	.feature-content{width: 100%;}
+	.features-list h1 {
+    margin-bottom: -3px;
+}
+.news_events_slide p {padding-bottom: 63px;font-size: 14px;font-weight: normal;}
+}
+@media screen and (max-width:1145px){
+
+	.menu-is-open {
+		background-color: rgba(37, 75, 161, 0.8);
+	}
+
+		.semos_white img {
+    width: 250px;
+}
+	.type-wrap {
+}
+	.dot_glow {
+    transform: scale(0.9);
+}
+	.software_hdr_link {
+    top: 240px;
+    margin-left: -117px;
+}
+	.system_hdr_link {
+    margin-left: -390px;
+    top: 450px;
+}
+	.creative_hdr_link {
+    margin-left: 231px;
+    top: 440px;
+}
+	.about_hdr_link {
+    top: 300px;
+    margin-left: 110px;
+}
+	div.parallax-container {
+    height: 550px;
+}
+	div.parallax-container div.parallax {}
+	.logo_center_semos {
+    height: 99px;
+    width: 290px;
+    top: 52%;
+}
+	#clock-countdown {}
+	.counter-container {}
+	#clock-countdown .counter-box {}
+	#clock-countdown .number {}
+	#clock-countdown span {}
+	#clock-countdown .first {}
+	#clock-countdown .first .number {}
+	#clock-countdown .first span {}
+	.title_counter {}
+
+		.tech_nasl {
+    font-size: 30px;
+    /* font-weight: 200; */
+}
+	.cont_naslov_technologies {}
+	.tech_desc {
+    font-size: 13px;
+}
+			.container_partners_txt {
+    margin-right: -5%;
+    width: 73%;
+}
+	.partners_paralax {
+    /* left: -70px; */
+}
+	.naslov_partners {
+    font-size: 30px;
+    /* font-weight: 200; */
+}
+	.txt_partners {
+    font-size: 13px;
+}
+	.partneri_logoa {}
+	.mob_desc_cont {
+    background-position: -310px bottom;
+}
+	.mbank_lm {
+    margin-left: 20%;
+}
+	.title_mbank {
+    margin-left: 20%;
+    font-size: 30px;
+    font-weight: 200;
+}
+	.desc_mbank {
+    margin-left: 20%;
+    font-size: 13px;
+}
+	.mbank_logo {
+    margin-left: 0;
+    left: -181px;
+    width: 370px;
+    margin-top: -20px;
+}
+	.phone_cont_slider {
+    left: -20px;
+}
+	.wp33 img {
+    width: 79% !important;
+}
+	.title_sec_obicna {
+    font-size: 30px;
+    /* font-weight: 200; */
+}
+	.sec_obicna_p {
+    font-size: 13px;
+    margin-bottom: -2px;
+    padding: 0;
+}
+	.lrn_more2 {
+    font-size: 15px;
+    font-weight: 400;
+}
+	.naslov_bs {
+    margin-left: -171px;
+    font-size: 27px;
+    top: 30px;
+    /* font-weight: 200; */
+}
+	.desc_bs {
+    margin-left: -141px;
+    font-size: 13px;
+    top: 91px;
+    width: 320px;
+}
+	.bs_link {
+    margin-left: -49px;
+    top: 153px;
+}
+.bs_guy {
+    height: 390px;
+    width: 45%;
+}
+.business_logos_parallax {
+    width: 90%;
+    height: 470px;
+    margin-top: -40px;
+}
+.bs_logos_cont svg {
+    margin-left: -5%;
+    height: 520px;
+}
+.bs_logos_cont {
+    height: 390px;
+}
+.lrn_more {
+    font-size: 15px;
+    font-weight: 400;
+    padding: 9px 41px 9px 15px !important;
+}
+}
+@media screen and (max-width:991px){
+	.colored_logos {
+	width: 135%;
+	max-width: 340px;
+	margin-left: 0%;
+}
+	.adress_pole {
+		border: none;
+		padding: 0;
+	}
+	.show_more_txt {
+    margin: 10px auto;
+    float: none;
+    display: inline-block;
+    width: 100%;
+}
+	.devider_news {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border: none;
+}
+	.devider_news > div {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #d9d9d9;
+}
+	.header_product_inside {
+		background-position-x: left !important;
+	}
+	.brochures h2 br {
+		display: none;
+	}
+	.brochures a {
+    width: 100%;
+    text-decoration: none;
+    box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.16); */
+    padding-bottom: 1;
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+}
+	.download_icon {
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    padding-right: 0;
+    text-align: center;
+    padding-left: 0;
+}
+	.brochures h2 {
+    position: relative;
+    display: table-cell;
+    width: 100%;
+    padding-left: 20px;
+    /* margin-left: 10px; */
+    /* padding-top: 9px; */
+    vertical-align: middle;
+}
+	.title_brochures {
+    border-right: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    padding: 20px 35px;
+    display: table;
+}
+	.brochures {
+    display: block;
+    /* background: red; */
+    float: left;
+    padding-bottom: 0;
+    margin-top: 20px;
+    border-top: 5px solid #e5c84b;
+    border-bottom: none !important;
+}
+	.txt_page_desc ul {
+    list-style: none;
+    margin: 0;
+}
+	.txt_page_desc {text-align: center;}
+	.row_logos {
+    padding: 70px 20px;
+    text-align: center;
+}
+	.paralax_inside {
+    box-shadow: inset 0 -39px 109px rgba(156, 212, 239, 0.42);
+    height: 100px !important; */
+    background: wheat;
+    /* background: white !important; */
+}
+	.paralax_inside .parallax {
+    margin-top: 11px !important;
+    background-size: 70% !important;
+    background-position: top !important;
+}
+	.paralax_inside .dot_glow {
+    display: none;
+}
+	.paralax_inside .ins_par_loga {
+    display: none;
+}
+	.wp1s, .wp2s {
+    visibility: visible;
+}
+	.cd-logo img, .meni_srch {opacity: 0}
+	.menu-is-open .cd-logo img, .menu-is-open .meni_srch { opacity: 1}
+
+	.semos_white img {}
+	.type-wrap {}
+	.dot_glow {
+    transform: scale(0.8);
+}
+	.software_hdr_link {
+    margin-left: -160px;
+    top: 260px;
+}
+	.system_hdr_link {}
+	.creative_hdr_link {
+    margin-left: 201px;
+}
+	.about_hdr_link {
+    top: 300px;
+    margin-left: 110px;
+}
+	.logo_center_semos {}
+	div.parallax-container {}
+	div.parallax-container div.parallax {
+    margin-top: 25px;
+}
+	#clock-countdown {
+    top: 31px;
+    /* z-index: 19; */
+}
+	.counter-container {
+    transform: scale(0.9);
+}
+	#clock-countdown .counter-box {}
+	#clock-countdown .number {}
+	#clock-countdown span {}
+	#clock-countdown .first {}
+	#clock-countdown .first .number {}
+	#clock-countdown .first span {}
+	.title_counter {}
+
+		.tech_nasl {
+    font-size: 26px;
+    font-weight: 300;
+}
+	.cont_naslov_technologies {margin-top: 60px;}
+	.tech_desc {}
+	.partners_txt {
+    background: none;
+    padding-top: 60px !important;
+    padding-left: 0 !important;
+    height: auto;
+    padding-bottom: 60px !important;
+}
+
+			.container_partners_txt {
+    margin-right: 0;
+    width: 90%;
+}
+	.partners_paralax {}
+	.naslov_partners {
+    font-size: 26px;
+    font-weight: 300;
+}
+	.txt_partners {
+    font-size: 13px;
+}
+	.partneri_logoa {
+    position: relative;
+    padding-top: 85px;
+}
+
+	.obicen_2 {background: white}
+	.mob_desc_cont {
+    background: white;
+    padding-left: 0 !important;
+    height: auto;
+    padding-bottom: 50px !important;
+    padding-top: 60px !important;
+}
+	.phone_cont {
+    /* background: red; */
+    height: auto !important;
+}
+	.mob_bank_mob {
+    height: 300px !important;
+    background: url(../img/mob_m_bank.png) center 5% no-repeat white;
+    background-size: cover;
+    /* box-shadow: inset 0 -11px 19px rgba(0, 0, 0, 0.08); */
+}
+	.mobile_blocks_cont {display: none}
+	.wp33 {
+    padding-top: 40px;
+}
+	.title_sec_obicna {
+    font-size: 26px;
+    font-weight: 300;
+}
+		.mbank_lm {margin: 0 auto;top: 0;display: block;width: 100%;left: 0;max-width: 140px;right: 0;float: none;}
+	.title_mbank {
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 15px;
+    font-size: 26px;
+    font-weight: 300;
+}
+	.desc_mbank {
+    width: 90%;
+    margin-bottom: 10px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 15px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+	.mbank_logo {
+    left: 0;
+    width: 40%;
+    max-width: 240px;
+    display: none;
+}
+	.phone_cont_slider {
+    display: none;
+}
+	.wp1, .wp2, .wp3, .wp4, .wp5, .wp6, .wp7, .wp8, .wp9, .wp10 {visibility: visible}
+
+		.animated {
+		/*CSS transitions*/
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+		/*CSS transforms*/
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		/*CSS animations*/
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+		visibility: visible;
+	}
+
+	.flickity-page-dots {
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    /* background: red; */
+    width: 100%;
+    display: inline-block;
+    position: absolute;
+    margin-right: -25px;
+}
+	.mob_slides {
+    padding-right: 45px !important;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+		.slide_img {
+    /* min-height: 280px; */
+    width: auto;
+    height: auto;
+    max-height: 350px;
+    padding-left: 10%;
+    /* float: none; */
+    /* margin: 0 auto; */
+}
+	#showcaseSlider li {
+		max-width: 560px;
+	}
+	.mob_news {
+    padding-left: 0 !important;
+    padding-top: 0;
+}
+	.pozadina_bus_sol {
+    background: white;
+}
+	.mobile_bs_logos {
+    height: 100px;
+    background: url(../img/mobile_bs_rotate.png) repeat-x left bottom white;
+    position: relative;
+    /* border-bottom: 1px solid rgba(0,0,0,0.13); */
+    background-size: auto 100%;
+    -webkit-animation: backgroundScroll 50s linear infinite;
+    animation: backgroundScroll 50s linear infinite;
+}
+	.white_gradient_bs {z-index: 1;max-width: 700px;display: none;}
+	.feature-1,.feature-2{padding-bottom: 50px !important;padding-bottom: 0;}
+	.device{/* display:none; */}
+	.screenshots ul li{width:50%;}
+	.screenshots-intro{padding:110px 0 100px 0;}
+	.feature-content{width: 100%;}
+	.features-slider{height:100%}
+		.naslov_bs {
+    margin: 0 auto;
+    font-size: 26px;
+    top: 0;
+    font-weight: 300;
+    /* float: left; */
+    position: relative;
+    width: 90%;
+    text-align: center;
+    padding: 0 15px;
+    padding-top: 35px;
+    line-height: normal;
+}
+.desc_bs_mob {
+    /* min-height: 250px; */
+    padding-bottom: 50px !important;
+    padding-left: 0px !important;
+    position: relative;
+    border-bottom: 1px solid rgba(0,0,0,0.13);
+}
+	.desc_bs {
+    margin: 0 auto;
+    font-size: 13px;
+    top: 0;
+    width: 90%;
+    position: relative;
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 15px;
+}
+	.bs_link {
+    margin: 0 auto;
+    top: 0;
+    display: block;
+    width: 100%;
+    left: 0;
+    max-width: 140px;
+    right: 0;
+    float: none;
+}
+.business_logos_parallax {
+    width: 100%;
+    height: 310px;
+    margin-top: 0;
+    margin: 0 auto;
+    overflow: hidden !important;
+    display: none;
+}
+.bs_logos_cont svg {
+    margin-left: 0;
+    height: 100%;
+    margin: 0 auto;
+}
+.bs_logos_cont {
+    height: auto;
+    background: white;
+    z-index: 7;
+}
+.lrn_more {
+    font-size: 15px;
+    font-weight: 400;
+    padding: 9px 41px 9px 15px !important;
+    position: relative;
+    margin-top: 25px;
+}
+}
+@media screen and (max-width:767px){
+.link_bttn {
+    width: 100%;
+    margin: 20px 0 0 0;
+}
+.hv0:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgba(208, 217, 228, 1);}
+.hv1:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(238, 216, 119);}
+.hv2:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(162, 217, 226);}
+.hv3:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(198, 177, 222);}
+.hv4:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(168, 228, 181);}
+.hv5:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(137, 191, 229);}
+.hv6:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(137, 175, 229);}
+.hv7:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(243, 195, 147);}
+.hv8:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(223, 139, 139) !important;}
+.hv9:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(240, 174, 149);}
+.hv10:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(218, 178, 224);}
+.hv11:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(232, 177, 194);}
+.hv12:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(235, 227, 121) !important;}
+.hv13:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(167, 180, 230);}
+.hv14:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(203, 227, 159);}
+.hv15:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(160, 228, 219);}
+.hv16:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(175, 173, 240) !important;}
+.hv17:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(178, 231, 168);}
+.hv18:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(191, 173, 240);}
+.hv19:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(163, 218, 243);}
+.hv20:hover {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09), 0 -3px 0px rgb(232, 177, 209) !important;}
+
+
+	.row_product {text-align: center}
+	.header_product_inside {
+    height: auto;
+    max-height: inherit !important;
+    float: left;
+    background-size: auto 180px !important;
+    padding-bottom: 30px;
+}
+
+	.logo_prod {
+    /* background-color: red !important; */
+    width: 100%;
+    position: relative;
+    display: block;
+    float: left;
+    height: 180px;
+}
+
+	.last_itm {box-shadow: 0 0 !important;}
+	.paralax_inside .parallax {
+    margin-top: 1px !important;
+}
+	.menu-is-open {
+		background-color: rgba(37, 75, 161, 0.8);
+	}
+	.cd-secondary-nav {
+    top: 0;
+}
+.vnatre_hdr svg,
+	.cd-logo img {
+    width: 100px;
+}
+	.meni_srch {
+    top: 11px;
+    right: -80px;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+}
+		.semos_white img {
+    width: 220px;
+}
+	.type-wrap {
+    font-size: 22px;
+    font-weight: 400;
+}
+	.dot_glow {
+    display: none;
+}
+	.software_hdr_link {}
+	.system_hdr_link {}
+	.creative_hdr_link {}
+	.about_hdr_link {}
+	.logo_center_semos {
+    top: 150px;
+    width: 261px;
+    height: 90px;
+}
+	div.parallax-container {
+    height: 398px;
+}
+	div.parallax-container div.parallax {
+    margin-top: 59px;
+    background-position: center bottom;
+    background-size: 1170px;
+}
+	#clock-countdown {
+    top: 22px;
+}
+	.counter-container {}
+	#clock-countdown .counter-box {}
+	#clock-countdown .number {
+    font-size: 18px;
+}
+	#clock-countdown span {
+    font-size: 15px;
+    line-height: normal;
+    padding-top: 0;
+}
+	#clock-countdown .first {}
+	#clock-countdown .first .number {
+    font-size: 28px !important;
+    padding-right: 5px;
+}
+	#clock-countdown .first span {
+    font-size: 23px;
+    line-height: normal;
+}
+	.title_counter {
+    font-size: 13px;
+}
+			.container_partners_txt {
+    text-align: center;
+    background: none;
+    padding-right: 0;
+    margin: 0 auto;
+    width: 100%;
+}
+	.partners_paralax {}
+	.naslov_partners {
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 15px;
+    font-size: 26px;
+    font-weight: 300;
+}
+	.txt_partners {
+    width: 90%;
+    margin-bottom: 10px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 15px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    float: none;
+}
+	.partneri_logoa {
+    padding-bottom: 60px;
+    padding-top: 10px;
+    max-width: 380px;
+}
+
+	.mob_bank_mob {
+    height: 200px !important;
+}
+		.mbank_lm {}
+	.title_mbank {}
+	.desc_mbank {}
+	.mbank_logo {}
+	.phone_cont_slider {}
+	.feature-1 > div > .col-md-12 {
+    border-right: none;
+}
+.wp33 {
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.09);
+    padding-bottom: 50px;
+    margin-bottom: 0;
+    width: 100%;
+}
+}
+@media screen and (max-width:730px){
+	.paralax_inside .parallax {
+    margin-top: 1px !important;
+}
+	.menu-is-open {
+		background-color: rgba(37, 75, 161, 0.8);
+	}
+	.semos_white img {}
+	.type-wrap {}
+	.dot_glow {}
+	.software_hdr_link {}
+	.system_hdr_link {}
+	.creative_hdr_link {}
+	.about_hdr_link {}
+	.logo_center_semos {}
+	div.parallax-container {}
+	div.parallax-container div.parallax {}
+	#clock-countdown {}
+	.counter-container {
+    transform: scale(0.9);
+}
+	#clock-countdown .counter-box {}
+	#clock-countdown .number {}
+	#clock-countdown span {}
+	#clock-countdown .first {}
+	#clock-countdown .first .number {}
+	#clock-countdown .first span {}
+	.title_counter {}
+
+		.mobile_bs_logos {
+    height: 81px;
+}
+	.cont_naslov_technologies {
+    width: 94%;
+}
+	.tech_desc {}
+
+	footer li a {margin-right: 16px;font-size: 12px;}
+}
+@media screen and (max-width:680px){
+	.paralax_inside .parallax {
+    margin-top: 11px !important;
+}
+	.lrn_mor {
+    margin: 0 auto;
+    float: none;
+    display: inline-block;
+}
+	.header_footr {
+    text-align: center;
+    /* background: rgba(255, 255, 255, 0.8); */
+    border-top: 0;
+    display: none;
+}
+	.srch_bttn_hdr {/* display: none */}
+
+	.semos_white img {
+    width: 200px;
+}
+	.type-wrap {
+    font-size: 20px;
+}
+	.dot_glow {}
+	.software_hdr_link {}
+	.system_hdr_link {}
+	.creative_hdr_link {}
+	.about_hdr_link {}
+	.logo_center_semos {
+    width: 220px;
+    top: 118px;
+}
+	div.parallax-container {
+    height: 320px;
+}
+	div.parallax-container div.parallax {
+    margin-top: 60px;
+    background-position: center top;
+    background-size: 1030px;
+}
+	#clock-countdown {
+    bottom: 0;
+    top: auto;
+    background: rgba(13, 77, 150, 0.87);
+    width: 100%;
+    border-top: 1px solid rgba(255, 255, 255, 0.69);
+}
+	.counter-container {
+    border-left: none;
+    color: white;
+    transform: scale(0.9);
+    width: 100%;
+    padding-top: 5px;
+}
+	#clock-countdown .counter-box {
+    padding-top: 2px;
+    color: white;
+    padding-bottom: 10px;
+    width: 100%;
+    text-align: left;
+}
+	#clock-countdown .number {
+    font-size: 23px !important;
+    padding-right: 5px;
+    font-weight: 500;
+    line-height: normal;
+}
+	#clock-countdown span {
+    font-size: 23px !important;
+    /* padding-right: 5px; */
+    font-weight: 500;
+    line-height: normal;
+}
+	#clock-countdown .first {
+    width: auto;
+    width: 100%;
+}
+	#clock-countdown .first .number {
+    font-size: 23px !important;
+    padding-right: 5px;
+    line-height: normal;
+    color: white;
+}
+	#clock-countdown .first span {}
+	.title_counter {
+    color: white;
+    padding-bottom: 0px;
+}
+	.mob_news {
+    padding-bottom: 80px;
+}
+	.flickity-page-dots {
+    margin-right: 0;
+}
+	.features-list h1 {
+    font-size: 27px;
+    font-weight: 300;
+    line-height: normal;
+}
+	.news_events_slide {}
+	.mob_slides {
+    padding-right: 0 !important;
+    padding-bottom: 40px;
+}
+	.feature-content{/* width:60%; */}
+}
+@media screen and (max-width:640px){
+	.paralax_inside .parallax {
+    margin-top: 31px !important;
+}
+	footer ul {
+    margin-bottom: -18px;
+}
+	.use-btn{display:none;}
+	footer li a {font-size: 12px;margin: 0 auto;text-align: center;width: 100%;display: block;}
+	footer li{display:block;text-align:left;padding: 10px 0;border-top: 1px solid rgba(255, 255, 255, 0.19);margin-right:0!important;float: left;width: 100%;}
+	nav{margin-top:40px;}
+	.overlay ul{margin-left:0px;}
+	.overlay ul li a{padding:20px 0;min-width:120px;font-size:12px;}
+}
+@media screen and (max-width:465px){
+	.row_product {
+    margin: 20px 15px;
+}
+	.popup_content {
+		padding: 0 !important;
+		width: 100%;
+	}
+	.popup-close {
+    margin-bottom: 0 !important;
+    margin-right: 0 !important;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: rgba(26, 45, 58, 0.32);
+}
+	.popups_cont {padding: 0}
+	.paralax_inside {
+		height: 60px !important;
+	}
+	.paralax_inside .parallax {
+    margin-top: 22px !important;
+    left: 30px !important;
+}
+	.wp33 img {
+    width: 100% !important;
+    max-width: 280px !important;
+}
+	.hero h1{font-size:40px;margin:100px 0 45px 0}
+	.screenshots ul li{width:100%;min-height:100%;float:none;}
+	section.video i{font-size:30px;}
+	section.video h1{font-size:15px;font-weight:400;}
+	section.video{padding:40px;}
+	.feature-content{width:100%;text-align:center;margin-top:20px;}
+	.feature-icon{display:block;margin:0 auto;}
+	blockquote p{width:60%;}
+	.features-slider {padding: 11% 50px 10% 50px;}
+}
+@media screen and (max-width:400px){
+	.wp33 img {
+    width: 80% !important;
+}
+	.colored_logos {
+    width: 100%;
+}
+}
+
+@media screen and (min-width:768px) {
+    .col-sm-auto { width: auto; }
+}
+@media screen and (min-width:992px) {
+    .col-md-auto { width: auto; }
+}
+@media screen and (min-width:1200px) {
+    .col-lg-auto { width: auto; }
+}

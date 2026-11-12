@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="318px" height="255px" viewBox="0 0 318 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>web</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="93.2386289%" y1="231.701947%" x2="0%" y2="25.0205694%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="21.6034593%" y1="25.4004986%" x2="-4.16519339%" y2="116.684604%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.874065897" offset="100%"></stop>
+        </linearGradient>
+        <polygon vector-effect="non-scaling-stroke" id="path-4" points="35.7395485 3.8940554 35.7395485 52.8414438 2.10232638 65.5108975 2.10232638 16.563509"></polygon>
+        <mask vector-effect="non-scaling-stroke" id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="33.6372221" height="61.6168421" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <polygon vector-effect="non-scaling-stroke" id="path-6" points="29.6953602 14.5182145 29.6953602 30.4545735 8.40930554 38.4719621 8.40930554 22.5356031"></polygon>
+        <mask vector-effect="non-scaling-stroke" id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="21.2860546" height="23.9537477" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <polygon vector-effect="non-scaling-stroke" id="path-8" points="5.25581596 12.3402508 5.25581596 19.9289932 -1.69642078e-13 21.9085953 -1.69642078e-13 14.3198529"></polygon>
+        <mask vector-effect="non-scaling-stroke" id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5.25581596" height="9.56834453" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <polygon vector-effect="non-scaling-stroke" id="path-10" points="37.8418749 0.0667175924 37.8418749 7.65545999 32.586059 9.63506212 32.586059 2.04631972"></polygon>
+        <mask vector-effect="non-scaling-stroke" id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5.25581596" height="9.56834453" fill="white">
+            <use xlink:href="#path-10"></use>
+        </mask>
+        <polygon vector-effect="non-scaling-stroke" id="path-12" points="5.25581596 59.7698908 5.25581596 67.3586332 -1.69642078e-13 69.3382353 -1.69642078e-13 61.7494929"></polygon>
+        <mask vector-effect="non-scaling-stroke" id="mask-13" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5.25581596" height="9.56834453" fill="white">
+            <use xlink:href="#path-12"></use>
+        </mask>
+        <polygon vector-effect="non-scaling-stroke" id="path-14" points="37.8418749 47.4963576 37.8418749 55.0850999 32.586059 57.0647021 32.586059 49.4759597"></polygon>
+        <mask vector-effect="non-scaling-stroke" id="mask-15" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5.25581596" height="9.56834453" fill="white">
+            <use xlink:href="#path-14"></use>
+        </mask>
+    </defs>
+    <g vector-effect="non-scaling-stroke" id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web">
+            <g id="Group">
+                <g id="Group-11-Copy" transform="translate(0.000000, 38.000000)">
+                    <g id="cms">
+                        <g id="Group-29" transform="translate(0.681389, 0.000000)">
+                            <g id="cms">
+                                <g id="senka-copy-6">
+                                    <path vector-effect="non-scaling-stroke" d="M39.9278404,125.367907 C39.9278404,125.367907 -24.6725352,102.878421 11.4050946,92.1081064 C47.4827244,81.3377919 90.2486259,98.5980794 90.2486259,98.5980794 L39.9278404,125.367907 Z" id="Path-3104" fill="url(#linearGradient-1)" opacity="0.219999999" filter="url(#filter-2)"></path>
+                                    <polygon vector-effect="non-scaling-stroke" id="Rectangle-240" fill="#FFFFFF" points="40.3447925 27.2675584 107.615909 0.567896857 174.847736 27.2675584 174.847736 124.482991 107.615909 150.839173 40.3447925 124.482991"></polygon>
+                                </g>
+                                <g transform="translate(39.448242, 0.000000)">
+                                    <polygon vector-effect="non-scaling-stroke" id="Rectangle-279-Copy-39" fill="#5FB0AA" points="43.6293529 141.221693 43.6293529 70.3555209 49.9135885 72.8181764 49.9135885 143.686235 68.1378717 150.833405 68.1378717 53.6296444 0.896550944 27.2590491 0.896550944 124.46281 19.1208341 131.609981 19.1208341 60.7511643 25.4050697 63.2138199 25.4050697 134.074522"></polygon>
+                                    <polygon vector-effect="non-scaling-stroke" id="Rectangle-279-Copy-40" fill="#A0E4DB" points="68.1140411 0.691136625 0.675781648 27.174411 68.1140411 53.668682 135.552301 27.1854077"></polygon>
+                                    <path vector-effect="non-scaling-stroke" d="M88.6917882,97.9739159 L87.8030631,97.0371841 L89.2439712,94.3891205 L87.8030631,92.8703781 L88.6917882,91.2371021 L90.1326963,92.7558445 L91.5736044,90.1077809 L92.4623295,91.0445127 L91.0214214,93.6925763 L92.4623295,95.2113187 L91.5736044,96.8445946 L90.1326963,95.3258523 L88.6917882,97.9739159 Z M68.1378717,53.5938543 L135.379193,27.2590491 L135.379193,124.467382 L68.1378717,150.802187 L68.1378717,53.5938543 Z M119.668604,57.0266305 L119.668604,69.7454778 L83.8484607,83.780572 L83.8484607,71.0617247 L119.668604,57.0266305 Z M117.783333,67.7583696 L117.783333,60.4913321 L85.733657,73.0488621 L85.7337314,80.3158705 L117.783333,67.7583696 Z M105.843285,100.607141 L105.843285,113.325989 L83.8484607,121.943241 L83.8484607,109.224394 L105.843285,100.607141 Z M103.958136,111.338833 L103.958015,104.071843 L85.7336103,111.211549 L85.7337314,118.478539 L103.958136,111.338833 Z M107.728556,99.8663025 L119.668604,95.1892993 L119.668604,107.908147 L107.728556,112.58515 L107.728556,99.8663025 Z M117.783333,105.921361 L117.783333,98.6540009 L109.613827,101.853088 L109.613827,109.120448 L117.783333,105.921361 Z M98.3022026,80.8444115 L119.668604,72.4745921 L119.668604,92.4613521 L98.3022026,100.831172 L98.3022026,80.8444115 Z M117.783333,90.474527 L117.783333,75.9392936 L100.187473,82.8312366 L100.187473,97.36647 L117.783333,90.474527 Z M83.8484607,86.5085192 L96.4169319,81.5864175 L96.4169319,101.573178 L83.8484607,106.495279 L83.8484607,86.5085192 Z M94.5316612,99.5860693 L94.5313283,85.0512495 L85.7337314,88.4951461 L85.7337314,103.030578 L94.5316612,99.5860693 Z M115.269639,83.2815913 L115.269639,81.4643214 L102.701167,86.3896324 L102.701167,88.2069024 L115.269639,83.2815913 Z M111.499097,89.3023595 L111.499097,87.4850895 L102.701167,90.9328073 L102.701167,92.7500772 L111.499097,89.3023595 Z" id="Rectangle-279-Copy-82" fill="#8DD8CD"></path>
+                                </g>
+                            </g>
+                            <polygon vector-effect="non-scaling-stroke" id="glow-copy-7" fill="url(#linearGradient-3)" opacity="0.929011182" style="mix-blend-mode: overlay;" points="40.3754601 124.443823 107.532545 150.824532 174.825925 124.443823 174.825926 27.2353128 107.596432 0.589636658 40.3754601 27.2353128"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-7" vector-effect="non-scaling-stroke" opacity="0.799999952" transform="translate(179.000000, 67.000000)">
+                        <g vector-effect="non-scaling-stroke" id="Group-14-Copy-2" transform="translate(101.571062, 70.818352) rotate(-320.000000) translate(-101.571062, -70.818352) translate(99.571062, 57.318352)" fill="#A1A7A9">
+                            <rect vector-effect="non-scaling-stroke" id="Rectangle-178" x="6.39488462e-13" y="0.320740365" width="3.38235294" height="20.2941176"></rect>
+                            <polygon vector-effect="non-scaling-stroke" id="Triangle-2" transform="translate(1.691176, 24.113844) scale(1, -1) translate(-1.691176, -24.113844) " points="1.69117647 22.0144523 3.38235294 26.2132353 9.30366895e-13 26.2132353"></polygon>
+                        </g>
+                        <g vector-effect="non-scaling-stroke" id="Group-42" stroke="#A1A7A9">
+                            <g vector-effect="non-scaling-stroke" id="Path-8-+-Path-6-+-Path-17-Copy-21" transform="translate(10.992647, 0.000000)">
+                                <polygon vector-effect="non-scaling-stroke" id="Path-8" points="0 19.599491 52.0808931 0 103.445361 19.5994905 51.6826646 38.6317671"></polygon>
+                                <polyline vector-effect="non-scaling-stroke" id="Path-6" points="0 19.2368038 4.43955211e-15 91.6300631 51.7226805 111.238909 51.7226805 38.7033174"></polyline>
+                                <polyline vector-effect="non-scaling-stroke" id="Path-7" transform="translate(77.584021, 65.237856) scale(-1, 1) translate(-77.584021, -65.237856) " points="51.7226805 19.2368038 51.7226805 91.6300631 103.445361 111.238909"></polyline>
+                            </g>
+                            <g vector-effect="non-scaling-stroke" id="Path-8-+-Path-6-+-Path-17-Copy-23" transform="translate(0.000000, 65.110294)">
+                                <polygon vector-effect="non-scaling-stroke" id="Path-8" points="0 8.2607114 22.1452149 0 43.9857999 8.26071118 21.9758849 16.2823555"></polygon>
+                                <polyline vector-effect="non-scaling-stroke" id="Path-6" points="0 8.10784753 1.88773328e-15 38.6198554 21.9929 46.8845096 21.9929 16.3125122"></polyline>
+                                <polyline vector-effect="non-scaling-stroke" id="Path-7" transform="translate(32.989350, 27.496179) scale(-1, 1) translate(-32.989350, -27.496179) " points="21.9929 8.10784753 21.9929 38.6198554 43.9857999 46.8845096"></polyline>
+                            </g>
+                            <g vector-effect="non-scaling-stroke" id="Path-8-+-Path-6-+-Path-17-Copy-24" transform="translate(23.676471, 42.279412)">
+                                <polygon vector-effect="non-scaling-stroke" id="Path-8" points="0 5.04595179 13.5271263 0 26.8681734 5.04595166 13.4236932 9.9458723"></polygon>
+                                <polyline vector-effect="non-scaling-stroke" id="Path-6" points="0 4.95257682 1.15309816e-15 23.5904535 13.4340867 28.6388138 13.4340867 9.96429316"></polyline>
+                                <polyline vector-effect="non-scaling-stroke" id="Path-7" transform="translate(20.151130, 16.795695) scale(-1, 1) translate(-20.151130, -16.795695) " points="13.4340867 4.95257682 13.4340867 23.5904535 26.8681734 28.6388138"></polyline>
+                            </g>
+                            <g vector-effect="non-scaling-stroke" id="Group-23" transform="translate(70.183824, 32.132353)">
+                                <use vector-effect="non-scaling-stroke" id="Rectangle-169" mask="url(#mask-5)" stroke-width="2" xlink:href="#path-4"></use>
+                                <use vector-effect="non-scaling-stroke" id="Rectangle-170" mask="url(#mask-7)" stroke-width="2" xlink:href="#path-6"></use>
+                                <path vector-effect="non-scaling-stroke" d="M8.52754856,38.1550992 L29.5737961,14.7774581" id="Path-948"></path>
+                                <path vector-effect="non-scaling-stroke" d="M29.5737961,30.2280339 L8.52754856,22.7045234" id="Path-948-Copy"></path>
+                                <path vector-effect="non-scaling-stroke" d="M8.40930554,42.4560519 L25.739189,35.9287544" id="Path-950"></path>
+                                <path vector-effect="non-scaling-stroke" d="M8.40930554,46.2504231 L17.8697743,42.6871393" id="Path-950-Copy"></path>
+                                <path vector-effect="non-scaling-stroke" d="M8.40930554,50.0447943 L17.8697743,46.4815105" id="Path-950-Copy-4"></path>
+                                <path vector-effect="non-scaling-stroke" d="M8.40930554,53.8391655 L17.8697743,50.2758817" id="Path-950-Copy-6"></path>
+                                <use vector-effect="non-scaling-stroke" id="Rectangle-171" mask="url(#mask-9)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-8"></use>
+                                <use vector-effect="non-scaling-stroke" id="Rectangle-171-Copy" mask="url(#mask-11)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-10"></use>
+                                <use vector-effect="non-scaling-stroke" id="Rectangle-171-Copy-3" mask="url(#mask-13)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-12"></use>
+                                <use vector-effect="non-scaling-stroke" id="Rectangle-171-Copy-2" mask="url(#mask-15)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-14"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <rect vector-effect="non-scaling-stroke" id="Rectangle-12" x="0" y="0" width="318" height="255"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

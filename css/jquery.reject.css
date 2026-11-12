@@ -1,0 +1,153 @@
+/*!
+ * jReject (jQuery Browser Rejection Plugin)
+ * Version 1.1.x
+ * URL: http://jreject.turnwheel.com/
+ * Description: jReject is a easy method of rejecting specific browsers on your site
+ * Author: Steven Bower (TurnWheel Designs) http://turnwheel.com/
+ * Copyright: Copyright (c) 2009-2014 Steven Bower under dual MIT/GPL license.
+ */
+
+#jr_overlay {
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 100% !important;
+	bottom: 0;
+	width: 100% !important;
+	padding: 0;
+	margin: 0;
+	z-index: 2147483646;
+	position: absolute;
+	opacity: 1!important;
+	background: url(../img/us_brow_bg.png) no-repeat bottom right rgb(255, 255, 255) !important;
+	background-size: auto !important;
+	position: fixed;
+	background-attachment: fixed !important;
+}
+
+#jr_wrap {
+	position: fixed;
+	width: 100%;
+	z-index: 2147483647;
+	padding: 0;
+	margin: 0;
+	top: 9% !important;
+}
+
+#jr_inner {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif;
+	font-size: 12px;
+	/* background: #FFF; */
+	/* border: 1px solid #CCC; */
+	color: #4F4F4F;
+	box-shadow: 0 1px 0 1px rgba(0, 0, 0, 0.16),0 2px 0 0px rgba(0, 0, 0, 0.12),0 41px 66px rgba(3, 26, 45, 0.09);
+	margin: 0 auto;
+	height: auto;
+	padding: 20px;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	position: relative;
+	box-sizing: content-box;
+	padding-top: 143px;
+	/* background: url(../img/semos_logo.svg) no-repeat center 32px #FFFFFF !important; */
+	border-top: 3px solid #1058ac;
+/* Rectangle 2: */
+	background-image: linear-gradient(-180deg, rgb(255, 255, 255) 140px, #ebf1f3 0%, rgb(255, 255, 255) 100%);
+}
+
+#jr_header {
+	display: block;
+	color: #333;
+	padding: 8px 10px;
+	margin: 0;
+	font-family: sans-serif;
+	font-weight: 100;
+	font-size: 21px;
+	text-align: center;
+	line-height: 35px;
+	background-color: #ffffff;
+	border-radius: 8px;
+	margin-bottom: 20px;
+	margin-top: 17px;
+	border: 1px solid #CCC;
+}
+
+#jr_inner p {
+	padding: 0 5px 7px 5px;
+	margin: 0;
+	line-height: 17px;
+	/* border-bottom: 1px solid #BDBDBD; */
+	text-align: center;
+}
+
+#jr_inner ul {
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+	margin: 0;
+	padding: 25px 0;
+	display: inline-block;
+	text-align: center;
+}
+
+#jr_inner ul li {
+	cursor: pointer;
+	float: left;
+	width: 120px;
+	height: auto;
+	margin: 0 10px 10px 10px;
+	padding: 0;
+	text-align: center;
+	background: rgb(255, 255, 255) !important;
+	border-radius: 4px;
+	box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.16);
+	padding-bottom: 7px !important;
+}
+
+#jr_inner li a {
+	color: #2a6496;
+	font-size: 0.8em;
+	text-decoration: none;
+	padding: 0;
+	margin: 0;
+	font-size: 11px;
+}
+
+#jr_inner li a:hover {
+	text-decoration: underline;
+}
+
+#jr_inner .jr_icon {
+	width: 100px;
+	height: 100px;
+	margin: 1px auto;
+	padding: 0;
+	background: transparent no-repeat scroll left top;
+	cursor: pointer;
+	background-size: 90% !important;
+	background-position: center !important;
+	border-bottom: 1px solid #ced0d1;
+	margin-bottom: 6px;
+}
+
+#jr_close {
+	clear: both;
+	padding: 0;
+	margin: 0;
+}
+
+#jr_close a {
+	color: #D8232A;
+	display: block;
+	width: auto;
+	margin: 0;
+	padding: 0;
+	text-decoration: underline;
+	text-align: center;
+}
+
+#jr_close p {
+	padding: 10px 0 0 0;
+	margin: 0;
+	border: none;
+}

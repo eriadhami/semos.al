@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="270px" viewBox="0 0 320 270" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>system_solutions_box</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g vector-effect="non-scaling-stroke" id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g vector-effect="non-scaling-stroke" id="system_solutions_box">
+            <g transform="translate(48.000000, 29.000000)">
+                <g vector-effect="non-scaling-stroke" id="Group-10" stroke="#A1A7A9">
+                    <g id="Group-5">
+                        <g id="Path-8-+-Path-6-+-Path-17-Copy-12" transform="translate(67.665964, 0.179372)">
+                            <polygon vector-effect="non-scaling-stroke" id="Path-8" points="0 16.9254649 44.8370253 0 89.0572721 16.9254645 44.4941858 33.361102"></polygon>
+                            <polyline vector-effect="non-scaling-stroke" id="Path-6" points="0 16.6122604 3.82206022e-15 79.1286579 44.528636 96.0622014 44.528636 33.4228905"></polyline>
+                            <polyline vector-effect="non-scaling-stroke" id="Path-7" transform="translate(66.792954, 56.337231) scale(-1, 1) translate(-66.792954, -56.337231) " points="44.528636 16.6122604 44.528636 79.1286579 89.0572721 96.0622014"></polyline>
+                        </g>
+                        <g id="Path-8-+-Path-6-+-Path-17-Copy-14" transform="translate(135.077142, 115.083599)">
+                            <polygon vector-effect="non-scaling-stroke" id="Path-8" points="0 16.9254649 44.8370253 0 89.0572721 16.9254645 44.4941858 33.361102"></polygon>
+                            <polyline vector-effect="non-scaling-stroke" id="Path-6" points="0 16.6122604 3.82206022e-15 79.1286579 44.528636 96.0622014"></polyline>
+                            <polyline vector-effect="non-scaling-stroke" id="Path-7" transform="translate(66.792954, 56.337231) scale(-1, 1) translate(-66.792954, -56.337231) " points="44.528636 16.6122604 44.528636 79.1286579 89.0572721 96.0622014 89.0572721 33.4228905"></polyline>
+                        </g>
+                        <g id="Path-8-+-Path-6-+-Path-17-Copy-16" transform="translate(0.471542, 113.423141)">
+                            <polygon vector-effect="non-scaling-stroke" id="Path-8" points="0 16.9254649 44.8370253 0 89.0572721 16.9254645 44.4941858 33.361102"></polygon>
+                            <polyline vector-effect="non-scaling-stroke" id="Path-6" points="0 16.6122604 3.82206022e-15 79.1286579 44.528636 96.0622014 44.528636 33.4228905"></polyline>
+                            <polyline vector-effect="non-scaling-stroke" id="Path-7" transform="translate(66.792954, 56.337231) scale(-1, 1) translate(-66.792954, -56.337231) " points="44.528636 16.6122604 44.528636 79.1286579 89.0572721 96.0622014"></polyline>
+                        </g>
+                    </g>
+                    <path vector-effect="non-scaling-stroke" d="M31.5969563,113.04829 L31.5969563,67.8531607 C31.5969563,67.8531607 50.8536817,60.4892041 60.4820444,56.8072259" id="Path-2423"></path>
+                    <path vector-effect="non-scaling-stroke" d="M195.087644,114.708748 L195.087644,69.5136185" id="Path-2423-Copy" transform="translate(195.087644, 92.111183) scale(-1, 1) translate(-195.087644, -92.111183) "></path>
+                </g>
+                <ellipse vector-effect="non-scaling-stroke" id="Oval-35" stroke="#A1A7A9" fill="#FFFFFF" cx="33.0623851" cy="68.9089982" rx="5.81629136" ry="5.81160226"></ellipse>
+                <ellipse vector-effect="non-scaling-stroke" id="Oval-35-Copy" fill="#A1A7A9" cx="195.087644" cy="69.7392271" rx="4.98539259" ry="4.98137336"></ellipse>
+                <g id="Group-12" transform="translate(98.703388, 172.687610)">
+                    <rect vector-effect="non-scaling-stroke" id="Rectangle-165" fill="#A1A7A9" x="0" y="13.192669" width="27.024326" height="23.4536338" rx="2"></rect>
+                    <path vector-effect="non-scaling-stroke" d="M6.7560815,8.79317174 L6.7560815,8.79317174 L6.7560815,19.0580184 C6.7560815,22.7032882 9.77860144,25.652412 13.512163,25.652412 C17.237319,25.652412 20.2682445,22.6961004 20.2682445,19.0580184 L20.2682445,8.79317174 C20.2682445,5.14790199 17.2457246,2.19877817 13.512163,2.19877817 C9.78700699,2.19877817 6.7560815,5.15508978 6.7560815,8.79317174 L6.7560815,8.79317174 Z M4.50405433,8.79317174 C4.50405433,3.93683708 8.54724517,0 13.512163,0 C18.487204,0 22.5202717,3.9313245 22.5202717,8.79317174 L22.5202717,19.0580184 C22.5202717,23.9143531 18.4770808,27.8511902 13.512163,27.8511902 C8.53712196,27.8511902 4.50405433,23.9198657 4.50405433,19.0580184 L4.50405433,8.79317174 L4.50405433,8.79317174 Z" id="Shape" fill="#A1A7A9"></path>
+                    <rect vector-effect="non-scaling-stroke" id="Rectangle-165-Copy-2" fill="#FFFFFF" x="12.0108116" y="21.9877817" width="3.00270289" height="8.79511269" rx="1.50135144"></rect>
+                    <ellipse vector-effect="non-scaling-stroke" id="Oval-38" fill="#FFFFFF" cx="13.512163" cy="23.4536338" rx="3.00270289" ry="2.93170423"></ellipse>
+                </g>
+                <polyline vector-effect="non-scaling-stroke" id="Path-2646" stroke="#A1A7A9" points="112.216644 102.697363 112.216644 119.453908 98.586518 126.284044"></polyline>
+                <path vector-effect="non-scaling-stroke" d="M111.341325,118.878494 L124.897837,126.258735" id="Path-2647" stroke="#A1A7A9"></path>
+            </g>
+        </g>
+    </g>
+</svg>

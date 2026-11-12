@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="270px" viewBox="0 0 320 270" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>mobile_apps_box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path vector-effect="non-scaling-stroke" d="M6.29608234,16.3600581 L45.0503652,0.467283814 C48.5275954,-0.958696277 51.3464475,0.989329457 51.3464475,4.80934333 L51.3464475,88.2665002 C51.3464475,92.0905336 48.5310643,96.3450878 45.0503652,97.7724905 L6.29608234,113.665265 C2.81885208,115.091245 0,113.143219 0,109.323205 L0,25.8660484 C0,22.042015 2.81538315,17.7874608 6.29608234,16.3600581 Z" id="path-1"></path>
+        <mask vector-effect="non-scaling-stroke" id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="51.3464475" height="114.132549" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path vector-effect="non-scaling-stroke" d="M43.7411731,12.7159152 C45.3634629,12.0497 46.6785886,13.0349679 46.6785886,14.9162157 L46.6785886,77.2736831 C46.6785886,79.1550907 45.3752236,81.2155172 43.7411731,81.886562 L7.6052744,96.7262547 C5.98298459,97.3924699 4.66785886,96.407202 4.66785886,94.5259542 L4.66785886,32.1684868 C4.66785886,30.2870792 5.97122391,28.2266527 7.6052744,27.5556079 L43.7411731,12.7159152 Z" id="path-3"></path>
+        <mask vector-effect="non-scaling-stroke" id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="42.0107298" height="84.4268168" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path vector-effect="non-scaling-stroke" d="M29.2818867,93.0924396 C28.481416,90.5874566 26.2168529,89.9269203 24.2238434,91.6170905 C22.2308339,93.3072607 21.2640901,96.7081044 22.0645608,99.2130875 C22.8650315,101.718071 25.1295946,102.378607 27.1226041,100.688437 C29.1156136,98.9982664 30.0823574,95.5974227 29.2818867,93.0924396 L29.2818867,93.0924396 Z" id="path-5"></path>
+        <mask vector-effect="non-scaling-stroke" id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7.77976477" height="10.944217" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <path vector-effect="non-scaling-stroke" d="M0,0.0597500473 C24.159656,9.38972125 72.4789681,28.0496636 72.4789681,28.0496636 C75.4163937,29.1840381 77.7976477,32.4973005 77.7976477,35.4355679 L77.7976477,124.60051 C77.7976477,127.545257 75.4257726,129.016477 72.4789681,127.87848 L0.128754748,99.9382893" id="path-7"></path>
+        <mask vector-effect="non-scaling-stroke" id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="77.7976477" height="128.203685" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <path vector-effect="non-scaling-stroke" d="M0.201419734,4.75012876 L60.4534644,27.9445953 C61.4391014,28.3240235 62.2381182,29.4304226 62.2381182,30.4143649 L62.2381182,116.09643 C62.2381182,117.081018 61.4310805,117.568509 60.4534644,117.192168 L0,93.9201638" id="path-9"></path>
+        <mask vector-effect="non-scaling-stroke" id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="62.2381182" height="112.569089" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+    </defs>
+    <g vector-effect="non-scaling-stroke" id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.899999976">
+        <g vector-effect="non-scaling-stroke" id="mobile_apps_box" stroke="#A1A7A9">
+            <g vector-effect="non-scaling-stroke" transform="translate(13.000000, 18.000000)" id="Group-34">
+                <g vector-effect="non-scaling-stroke" transform="translate(0.000000, 0.126275)">
+                    <g vector-effect="non-scaling-stroke" id="Path-8-+-Path-6-+-Path-17-Copy-6" transform="translate(40.597146, 0.000000)">
+                        <polygon vector-effect="non-scaling-stroke" id="Path-8" points="0 41.1741732 108.714423 0 215.933369 41.1741721 107.883154 81.156754"></polygon>
+                        <polyline vector-effect="non-scaling-stroke" id="Path-6" points="0 40.4122481 9.26718639e-15 192.494391 107.966684 233.688217"></polyline>
+                        <polyline vector-effect="non-scaling-stroke" id="Path-7" transform="translate(161.950027, 137.050233) scale(-1, 1) translate(-161.950027, -137.050233) " points="107.966684 40.4122481 107.966684 192.494391 215.933369 233.688217 215.933369 81.3070654"></polyline>
+                    </g>
+                    <g vector-effect="non-scaling-stroke" id="Group-4" transform="translate(180.490543, 81.433214)">
+                        <use vector-effect="non-scaling-stroke" id="Rectangle-178" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                        <use vector-effect="non-scaling-stroke" id="Rectangle-178-Copy" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+                        <use vector-effect="non-scaling-stroke" id="Oval-57" mask="url(#mask-6)" stroke-width="2" xlink:href="#path-5"></use>
+                        <path vector-effect="non-scaling-stroke" d="M21.7833414,15.6345957 L29.5631061,12.5076766" id="Path-905" stroke-linecap="round"></path>
+                    </g>
+                    <g vector-effect="non-scaling-stroke" id="Group-6" transform="translate(40.454777, 71.992707)">
+                        <use vector-effect="non-scaling-stroke" id="Rectangle-178" mask="url(#mask-8)" stroke-width="2" xlink:href="#path-7"></use>
+                        <use vector-effect="non-scaling-stroke" id="Rectangle-178-Copy-2" mask="url(#mask-10)" stroke-width="2" xlink:href="#path-9"></use>
+                        <path vector-effect="non-scaling-stroke" d="M69.2399065,72.2396628 C67.0915837,71.4660107 65.3500241,72.4720517 65.3500241,74.4867182 C65.3500241,76.5013847 67.0915837,78.7617635 69.2399065,79.5354156 C71.3882292,80.3090676 73.1297889,79.3030267 73.1297889,77.2883602 C73.1297889,75.2736937 71.3882292,73.0133149 69.2399065,72.2396628 Z" id="Oval-57"></path>
+                    </g>
+                    <g vector-effect="non-scaling-stroke" id="Path-8-+-Path-6-+-Path-17-Copy-7" transform="translate(0.000000, 87.043252)">
+                        <polygon vector-effect="non-scaling-stroke" id="Path-8" points="0 9.60663325 25.5895298 0 50.8270497 9.606633 25.3938633 18.9352478"></polygon>
+                        <polyline vector-effect="non-scaling-stroke" id="Path-6" points="0 9.42886319 2.18133837e-15 44.9122078 25.4135249 54.5234263"></polyline>
+                        <polyline vector-effect="non-scaling-stroke" id="Path-7" transform="translate(38.120287, 31.976145) scale(-1, 1) translate(-38.120287, -31.976145) " points="25.4135249 9.42886319 25.4135249 44.9122078 50.8270497 54.5234263 50.8270497 18.970318"></polyline>
+                    </g>
+                    <g vector-effect="non-scaling-stroke" id="Path-8-+-Path-6-+-Path-17-Copy-9" transform="translate(54.717893, 129.676681)">
+                        <polygon vector-effect="non-scaling-stroke" id="Path-8" points="0 6.29400109 16.765554 0 33.3004809 6.29400093 16.6373587 12.405852"></polygon>
+                        <polyline vector-effect="non-scaling-stroke" id="Path-6" points="0 6.17753106 1.42915273e-15 29.4252396 16.6502404 35.7222448 16.6502404 12.428829"></polyline>
+                        <polyline vector-effect="non-scaling-stroke" id="Path-7" transform="translate(24.975361, 20.949888) scale(-1, 1) translate(-24.975361, -20.949888) " points="16.6502404 6.17753106 16.6502404 6.17753106 16.6502404 29.4252396 33.3004809 35.7222448"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

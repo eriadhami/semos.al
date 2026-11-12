@@ -1,0 +1,45 @@
+/* Semos AL additions: EN | SQ language switch in the top header */
+.al-lang-switch {
+  position: absolute;
+  top: 50%;
+  right: 72px;
+  transform: translateY(-50%);
+  display: flex;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+  overflow: hidden;
+  z-index: 3;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+.al-lang-switch a {
+  display: block;
+  padding: 5px 12px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: 0.5px;
+  color: #0f58ab !important;
+  text-decoration: none !important;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+.al-lang-switch a + a {
+  border-left: 1px solid rgba(15, 88, 171, 0.2);
+}
+.al-lang-switch a:hover {
+  background: rgba(15, 88, 171, 0.1);
+}
+.al-lang-switch a.active {
+  background: #0f58ab;
+  color: #fff !important;
+}
+@media only screen and (min-width: 768px) {
+  .al-lang-switch { right: 170px; }
+}
+/* home hero: the AL logo is taller (extra "albania" line), push the typed slogan below it */
+.logo_center_semos .type-wrap { transform: translateY(26px); }
+/* "albania" line under the inline subpage logo follows the logo colour changes */
+.vnatre_hdr.menu-is-open svg text.al-logo-sub,
+.vnatre_hdr.is-visible svg text.al-logo-sub { fill: #fff; }
+/* hide while the full-screen menu is open so it does not overlap the menu */
+.menu-is-open .al-lang-switch { opacity: 0; pointer-events: none; }
